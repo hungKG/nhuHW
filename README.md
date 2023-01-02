@@ -2,8 +2,9 @@
 
 歡迎來到 detectron2！這是detectron2官方的colab教程。在這裡，我們將介紹 detectron2 的一些基本用法，包括以下內容：
 
-使用現有的 detectron2 模型對圖像或視頻進行推理
-在新數據集上訓練 detectron2 模型
+1.使用現有的 detectron2 模型對圖像或視頻進行推理
+
+2.在新數據集上訓練 detectron2 模型
 
 參考資料來源:https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5
 
