@@ -4,6 +4,7 @@
 
 使用現有的 detectron2 模型對圖像或視頻進行推理
 在新數據集上訓練 detectron2 模型
+
 參考資料來源:https://colab.research.google.com/drive/16jcaJoc6bCFAQ96jDe2HwtXj7BMD_-m5
 
 ## 安裝檢測器2
